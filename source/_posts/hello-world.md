@@ -14,7 +14,7 @@ or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 $ hexo new "My New Post test"
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+More info: [Writing](https://hexo.io/docs/writing.html) 
 
 ### Run server
 
