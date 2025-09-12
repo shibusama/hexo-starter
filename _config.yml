@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Shibusama
-subtitle: ''
+title: Stellar
+subtitle: '每个人的独立博客 | Designed by xaoxuu'
 description: ''
 keywords:
-author: shibusama
-language: zh-CN
+author: John Doe
+language: en
 timezone: ''
 
 # URL
@@ -29,6 +29,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+  - assets/*
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -92,6 +93,8 @@ pagination_dir: page
 include:
 exclude:
 ignore:
+  - .DS_Store
+  - /**/.DS_Store
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
@@ -101,12 +104,4 @@ theme: stellar
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repository: git@github.com:shibusama/shibusama.github.io.git
-  branch: main
-
-symbols_count_time:
-  symbols: true  # 统计字数
-  time: true     # 统计阅读时长
-  total_symbols: true  # 显示总字数
-  total_time: true     # 显示总阅读时长
+  type: ''
