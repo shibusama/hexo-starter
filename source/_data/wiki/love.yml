@@ -22,21 +22,21 @@ comments:
     data-term: 226
 base_dir: /wiki/love/
 tree:
-  '约会脚本':
-    - index
-    - examples
-    - releases
-  '基本使用':
-    - theme-settings
-    - pages
+  '关于爱的观念':
+    - 现代爱情背后的哲学
+    - 爱情的阶次和解放
     - sidebar
     - tag-plugins
     - tag-plugins/express
     - tag-plugins/data
     - tag-plugins/container
     - comments
-  '文档系统':
+  '关于吸引力的无意识':
     - wiki-settings
+  '约会脚本':
+    - index
+    - examples
+    - releases
   '进阶玩法':
     - widgets
     - advanced-settings
