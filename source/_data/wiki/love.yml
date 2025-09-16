@@ -25,7 +25,7 @@ tree:
   '关于爱的观念':
     - 现代爱情背后的哲学
     - 爱情的阶次和解放
-    - sidebar
+    - 爱情法则-更新中
     - tag-plugins
     - tag-plugins/express
     - tag-plugins/data
@@ -33,13 +33,15 @@ tree:
     - comments
   '现代爱情场域':
     - 爱情游戏地图
-  '约会脚本':
-    - index
-    - examples
-    - releases
-  '进阶玩法':
-    - widgets
-    - advanced-settings
+    - 女性分类
+  '爱情实践':
+    - 聊天建设
+    - 行为建设
+    - 约会项目
+    - 浪漫脚本
+  '内功打造':
+    - 生理建设
+    - 心理建设
     - notes
   '技术支持':
     - articles
