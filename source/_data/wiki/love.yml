@@ -26,11 +26,6 @@ tree:
     - 现代爱情背后的哲学
     - 爱情的阶次和解放
     - 爱情法则-更新中
-    - tag-plugins
-    - tag-plugins/express
-    - tag-plugins/data
-    - tag-plugins/container
-    - comments
   '现代爱情场域':
     - 爱情游戏地图
     - 女性分类
@@ -42,7 +37,6 @@ tree:
   '内功打造':
     - 生理建设
     - 心理建设
-    - notes
   '技术支持':
     - articles
     - todo
