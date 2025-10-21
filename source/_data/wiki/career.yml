@@ -1,10 +1,10 @@
 name: career
-title: love - 关于爱的精神分析
-subtitle: '关于爱的精神分析 | Designed by shibusama'
+title: Side Hustle - 我的副业探索与实践
+subtitle: '副业经验分享与路径规划 | Designed by shibusama'
 tags: 博客主题
-icon: https://res.xaox.cc/gh/cdn-x/wiki@main/stellar/icon.svg
+icon: https://bu.dusays.com/2025/10/21/68f75879d92e8.png
 cover: https://res.xaox.cc/gh/cdn-x/wiki@main/stellar/icon.svg
-description: Stellar 是一个内置文档系统的简约商务风 Hexo 主题，支持丰富的标签和动态数据组件。
+description: 全面的副业探索指南，涵盖多领域副业方向（含技能变现、资源整合、轻创业等）。
 repo: xaoxuu/hexo-theme-stellar
 search:
   filter: /wiki/career/
@@ -13,7 +13,7 @@ leftbar:
   - tree
   - timeline_stellar_releases
   - related
-comment_title: '评论区仅供交流，有问题请提 [issue](https://github.com/xaoxuu/hexo-theme-stellar/issues) 反馈。'
+comment_title: '评论区欢迎交流副业经验、路径规划等问题，有主题功能相关反馈可提 issue。'
 comments:
   service: giscus
   giscus:

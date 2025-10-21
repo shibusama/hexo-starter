@@ -1,10 +1,10 @@
 name: Love
 title: love - 关于爱的精神分析
-subtitle: '关于爱的精神分析 | Designed by shibusama'
+subtitle: '精神分析视角下的爱之解构与重构 | 以理论照见亲密关系的本质 | Designed by shibusama'
 tags: 博客主题
 icon: https://res.xaox.cc/gh/cdn-x/wiki@main/stellar/icon.svg
 cover: https://res.xaox.cc/gh/cdn-x/wiki@main/stellar/icon.svg
-description: Stellar 是一个内置文档系统的简约商务风 Hexo 主题，支持丰富的标签和动态数据组件。
+description: 从弗洛伊德的本能驱力到拉康的符号性认同，解析爱在潜意识中的运作机制，探讨现代亲密关系的困境与突围路径。
 repo: xaoxuu/hexo-theme-stellar
 search:
   filter: /wiki/love/
@@ -13,7 +13,7 @@ leftbar:
   - tree
   - timeline_stellar_releases
   - related
-comment_title: '评论区仅供交流，有问题请提 [issue](https://github.com/xaoxuu/hexo-theme-stellar/issues) 反馈。'
+comment_title: '欢迎分享对爱之本质的思考与体验，学术探讨或案例分析均可 —— 理性与感性的碰撞，恰是理解爱的开始。'
 comments:
   service: giscus
   giscus:
